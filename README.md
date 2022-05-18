@@ -1,5 +1,5 @@
 * 👋 Hi, I’m Amit A. Korgaonkar --> @Amitkor12
-* 👀 I’m interested in HTML, CSS, Javasrip, Python Programing.Also have a bit of intrest in PCB designing.
+* 👀 I’m interested in HTML, CSS, Javasript, Python Programing.Also have a bit of intrest in PCB designing.
 * 🌱 I’m currently learning Python programing and Kicad PCB designing.
 * 📫 How to reach me email at: amitcor12@gmail.com
 <!-- 💞️ I’m looking to collaborate on---> 
