@@ -4,6 +4,11 @@
 * 📫 How to reach me email at: amitcor12@gmail.com
 <!-- 💞️ I’m looking to collaborate on---> 
 
+August 2022
+* Joined as Apperntice in Siemens.
+* Currently as Firmware Developer.
+* Learing embedded C programing.
+
 
 <!---
 Amitkor12/Amitkor12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
